@@ -1,0 +1,185 @@
+﻿  CRM Project (Update Project for Tech up as CRM Application).cpp
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsPerson.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsString.h(35,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsString.h(104,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsString.h(109,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsString.h(197,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsString.h(272,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsDates.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsDates.h(24,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsUtil.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\GlobalScreenOfOOP11.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsUser.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsUser.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(33,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(468,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(476,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(488,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsClientListScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsClientListScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsClientListScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsAddNewClientScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsDeleteClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsDeleteClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsUpdateClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsUpdateClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsFindClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsFindClientScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsAddNewUserScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(13,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsDeleteUserScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsDeleteUserScreen.h(81,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsManageUsersScreen.h(14,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsMainScreenOfImplementation.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\ClsLoginRegisterUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsLoginUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'CRM%20Project%20(Update%20Project%20for%20Tech%20up%20as%20CRM%20Application).cpp')
+  
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application).cpp(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Interfacecommuniction.cpp
+  Generating Code...
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsBankClient.h(373,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\CRM Project (Update Project for Tech up as CRM Application)\clsUser.h(325,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  CRM Project (Update Project for Tech up as CRM Application).vcxproj -> C:\Users\Abura\source\repos\CRM Project (Update Project for Tech up as CRM Application)\x64\Debug\CRM Project (Update Project for Tech up as CRM Application).exe
